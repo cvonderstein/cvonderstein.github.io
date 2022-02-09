@@ -2,7 +2,7 @@
 layout: default
 title: Home
 has_children: false
-permalink: home
+permalink: /
 ---
 
 # Christian Vonderstein
