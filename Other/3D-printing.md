@@ -3,6 +3,7 @@ layout: default
 title: 3D Printing
 has_children: false
 permalink: other/3d-printing
+parent: Other
 ---
 
 # 3D Printing

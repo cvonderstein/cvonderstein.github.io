@@ -3,6 +3,7 @@ layout: default
 title: VS Code
 has_children: false
 permalink: software/vs-code
+parent: Software
 ---
 
 # VS Code

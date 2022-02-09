@@ -3,6 +3,7 @@ layout: default
 title: LaTeX
 has_children: false
 permalink: software/latex
+parent: Software
 ---
 
 # LaTeX
