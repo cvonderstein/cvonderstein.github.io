@@ -1,3 +1,10 @@
+---
+layout: default
+title: VS Code
+has_children: false
+permalink: software/vs-code
+---
+
 # VS Code
 
 ## What is VS Code?

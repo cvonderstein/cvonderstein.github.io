@@ -1,3 +1,10 @@
+---
+layout: default
+title: Jekyll-Theme
+has_children: false
+permalink: software/jekyll-theme
+---
+
 # Jekyll-Theme
 
 ## Requirements

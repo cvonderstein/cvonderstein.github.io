@@ -1,3 +1,10 @@
+---
+layout: default
+title: Flutter
+has_children: false
+permalink: software/flutter
+---
+
 # Flutter
 
 ## Using Flutter

@@ -1,3 +1,10 @@
+---
+layout: default
+title: LaTeX
+has_children: false
+permalink: software/latex
+---
+
 # LaTeX
 
 ## What is LaTeX?

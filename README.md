@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+has_children: false
+permalink: home
+---
+
 # Christian Vonderstein
 
 ## Some information about me
