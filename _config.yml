@@ -7,3 +7,8 @@ footer_content: "Copyright &copy; 2022 Christian Vonderstein."
 # Footer last edited timestamp
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
