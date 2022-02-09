@@ -1,7 +1,13 @@
 title: "Christian Vonderstein"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: nil
-search_enabled: false
+
+# Search settings
+search_enabled: true
+search.heading_level: 6
+search.previews: 10
+search.rel_url: true
+search.button: true
 
 footer_content: "Copyright &copy; 2022 Christian Vonderstein."
 # Footer last edited timestamp
