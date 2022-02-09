@@ -8,6 +8,9 @@ footer_content: "Copyright &copy; 2022 Christian Vonderstein."
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 
+# Open Aux links in new tabs
+aux_links_new_tab: true
+
 kramdown:
   syntax_highlighter_opts:
     block:
