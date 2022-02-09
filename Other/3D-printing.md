@@ -10,4 +10,4 @@ parent: Other
 
 ## Testing and calibrating your printer
 
-- [&ast;MINI&ast; All In One 3D printer test](https://www.thingiverse.com/thing:2806295)
+- [MINI All In One 3D printer test](https://www.thingiverse.com/thing:2806295)
