@@ -50,5 +50,5 @@ The focus is more on documentation, but I think this fits the purpose of this pa
 
 ## My decision
 
-In the end, the purpose this site has is mostly documenting stuff for myself, but I'm happy to help other people with this, which is why I'm publishing it.
+In the end, the purpose this site has is mostly documenting stuff, for myself but I'm also happy to help other people with this, which is why I'm publishing it.
 This probably the reason why the [Just the docs](#just-the-docshttpsjekyllthemesiothemejust-the-docs) Theme fits my purpose the best.
