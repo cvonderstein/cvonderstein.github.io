@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Hardware
+title: Studying Computer Science
 has_children: false
 nav_order: 6
 permalink: hardware/studying-computer-science
