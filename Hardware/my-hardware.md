@@ -2,6 +2,7 @@
 layout: default
 title: My Hardware
 has_children: false
+nav_order: 1
 permalink: hardware/my-hardware
 parent: Hardware
 ---
