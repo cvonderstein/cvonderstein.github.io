@@ -1,23 +1,18 @@
 ---
 layout: default
-title: My Hardware
+title: Main PC
 has_children: false
 nav_order: 1
-permalink: hardware/my-hardware
+permalink: hardware/main-pc
 parent: Hardware
 ---
 
-# My Hardware
+# Main PC
 
-\- TODO -
-
-As I'm a student, I currently do nearly all my work from home using my own hardware.
-You definetly don't need this kind of hardware to study computer science, I would even go as far as saying you don't need this kind of hardware to study anything.
-Anyway, it's nice to have a fast PC and as I work the whole day on this machine (and also use it for gaming), I want it to be fast (and quiet).
-
-## Main PC
+## The Hardware
 
 This is my main PC, which I use for my daily work and also gaming.
+You can find explanations for my decisions below.
 
 - CPU: AMD Ryzen 9 5900X (12 cores @ 4.5 GHz)
 - CPU Cooler: Noctua NH-D15 chromax.black
@@ -32,7 +27,7 @@ This is my main PC, which I use for my daily work and also gaming.
 - Case: Corsair Obsidian 750D
 - Case Fans: 3 Noctua NF-A14 PWM
 
-### Some explanations
+## Some explanations
 
 Yes, I have 4 TB of SSD Storage.
 Why? Part of that is because I initially planned to get 3 TB, just to have enough storage and to have a NVME Gen 4 for my OS, a NVME (Gen 3 because the Chipset doesn't offer a second Gen 4 slot) for VMs and stuff and a SATA SSD for games (they don't really profit from faster NVME drives)
@@ -57,27 +52,3 @@ Fans:
 I wanted this system to be as quiet as possible, as I was annoyed by my old system for many years.
 Noctua Fans are not cheap, but holy.. the converters in my LED lamps are now louder than my system at idle (which it does for most of the day).
 Oh, and I went for the ugly ones because they include more accessories (I specifically went for the extensions which I need for my case).
-
-## Peripherals
-
-\- TODO -
-
-As I don't only use these peripherals for my main PC (but mostly), I decided to put them into a separate section.
-
-## Laptop
-
-\- TODO -
-
-## iPad for studying
-
-\- TODO -
-
-## Old PC, now a Server
-
-Okay, Server is not completely true yet. But anyways.
-
-\- TODO -
-
-## Many Raspberry Pis
-
-\- TODO -
