@@ -8,6 +8,11 @@ parent: Software
 
 # Jekyll-Theme
 
+## What is Jekyll?
+
+Jekyll is the software that is used by (among others) GitHub Pages to compile Markdown files into "real" webpages.
+The themes decide what the end result looks like, just like when you choose a theme (e.g. dark/light) on your smartphone.
+
 ## Requirements
 
 So, my requirements are:
