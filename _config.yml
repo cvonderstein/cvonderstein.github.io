@@ -26,3 +26,6 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: true
+
+# Include .well-known files for Matrix delegation
+include: [".well-known"]
