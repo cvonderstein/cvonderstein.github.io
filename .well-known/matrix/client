@@ -1,0 +1,30 @@
+{
+    "im.vector.riot.e2ee": {
+        "default": true
+    },
+    "im.vector.riot.jitsi": {
+        "preferredDomain": "jitsi.vonderste.in"
+    },
+    "io.element.e2ee": {
+        "default": true,
+        "secure_backup_required": false,
+        "secure_backup_setup_methods": []
+    },
+    "io.element.jitsi": {
+        "preferredDomain": "jitsi.vonderste.in"
+    },
+    "m.homeserver": {
+        "base_url": "https://matrix.vonderste.in"
+    },
+    "m.identity_server": {
+        "base_url": "https://matrix.vonderste.in"
+    },
+    "m.integrations": {
+        "managers": [
+            {
+                "api_url": "https://dimension.vonderste.in/api/v1/scalar",
+                "ui_url": "https://dimension.vonderste.in/element"
+            }
+        ]
+    }
+}
