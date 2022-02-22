@@ -24,19 +24,38 @@ Before we get into this, please note that I can only report from my point of vie
 
 The most of the time you will listen to lectures (either in presence or online, which I come to later), do exercises or write summaries or similar things.
 In the end, this is a lot of theoretical work and nothing processor intensive.
+Even if there are programming tasks, they are very unlikely to require a lot of processor power, as the programs you write are typically very small.
+And...
 
 ## If you need a lot of power, there is Claix
 
-## Maybe even rent a server
+Claix is the supercomputer at RWTH Aachen.
+Every student can use it, although the resources that are available to you are very limited, as these machines are very expensive and are not meant for your Bitcoin-Mining hobby.
+
+As far as I remember, you can use something like 4 cores on the login nodes and up to 4 gigabytes of memory, or something like this.
+Even though this is not a lot, this is always more than enough to run the small programs that you need to run for the studies.
+(Just for completeness: If you need more resources for a good reason, like real research, you can apply for more resources.)
+
+In the end, using Claix can save you some battery life on your own laptop, although power outlets are provided at about every third place in the lecture halls.
+Remember, this machine is meant to run things that are related to research and education, so don't run stupid shit on there.
+But as long as this is for your education (e.g. for assignments), nobody will say anything.
 
 ## In the end, its of course nice to have a fast machine
 
+Now, that we talked enough about why you do not need the best hardware, of course its nice if your machine is not the slowest.
+You will probably work multiple hours every day on this machine, and if applications react slowly, this will become annoying very quickly.
+I would not recommend buying the cheapes laptop you can get, for the aforementioned reason.
+
 ## Things you should focus on
 
-- Display (good one, especially it should be bright enough)
-- Good feeling keyboard
-- Good touchpad, you don't want to use an external mouse all day when changing between lecture halls (and you might not even have enough space)
-- Good battery run time
+Some things you should focus on are:
+
+- Display (good one, especially it should be bright enough), possibly not glary as lights in lecture halls are strong and always from above
+- Good feeling keyboard, you type a lot
+- Good touchpad: you don't want to use an external mouse all day when often changing between lecture halls, and you might not even have enough space on the table to use it
+- Good battery run time, as you don't have power outlets everywhere (you will find one, but having to sit next to one always is probably not what you are looking for)
+- weight: don't buy a 15kg brick, remember that you have to carry it all day
+- Memory: I would recommend getting at least 16 GB. 8 GB will probably also work, but if you plan to keep this machine for several years, I think getting 16 GB would be good
 
 ## Things you can pretty much ignore
 
@@ -44,11 +63,8 @@ In the end, this is a lot of theoretical work and nothing processor intensive.
   - Linux is free (although it seems to cause problems with Zoom)
   - if you want Windows, its also free for students
   - pretty much all software in science runs on Linux, most also on Windows
+  - you can also use macOS, that won't be a problem too
 - Processor power
   - you mainly work on PDFs
   - might program small (very small) applications
   - if you need a lot of power, there is always Claix to the rescue
-
-## Cheapest possible setup in my opinion (didn't try it)
-
-- Raspberry Pi (then you should get)
