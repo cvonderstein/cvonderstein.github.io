@@ -13,6 +13,47 @@ parent: Software
 Jekyll is the software that is used by (among others) GitHub Pages to compile Markdown files into "real" webpages.
 The themes decide what the end result looks like, just like when you choose a theme (e.g. dark/light) on your smartphone.
 
+## Install on Ubuntu
+
+I took this information from [here](https://jekyllrb.com/docs/installation/ubuntu/), and changed it for zsh (see below).
+
+For bash:
+
+```bash
+sudo apt-get install ruby-full build-essential zlib1g-dev
+
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+gem install jekyll bundler
+```
+
+For zsh:
+
+```zsh
+sudo apt-get install ruby-full build-essential zlib1g-dev
+
+echo '# Install Ruby Gems to ~/gems' >> ~/.zshrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.zshrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+
+gem install jekyll bundler
+```
+
+After that, you can run
+
+```zsh
+gem install bundler jekyll
+jekyll new my-awesome-site
+cd my-awesome-site
+bundle exec jekyll serve
+```
+
+to create a new site and run it locally.
+
 ## Requirements
 
 So, my requirements are:
