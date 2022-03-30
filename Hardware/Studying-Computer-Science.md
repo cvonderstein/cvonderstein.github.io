@@ -44,7 +44,7 @@ But as long as this is for your education (e.g. for assignments), nobody will sa
 
 Now, that we talked enough about why you do not need the best hardware, of course its nice if your machine is not the slowest.
 You will probably work multiple hours every day on this machine, and if applications react slowly, this will become annoying very quickly.
-I would not recommend buying the cheapes laptop you can get, for the aforementioned reason.
+I would not recommend buying the cheapest laptop you can get, for the aforementioned reason.
 
 ## Things you should focus on
 
