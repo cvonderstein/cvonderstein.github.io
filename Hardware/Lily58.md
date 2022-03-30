@@ -83,3 +83,17 @@ This should be it for the flashing part.
 
 Just as a Note: The two Arduinos assume (at least by default) assume the one which has the USB cable plugged in to be the left hand.
 I'm very new to QMK, so I don't know if this can be changed easily but I assume it can be.
+
+# Well...
+
+For every letter thats not written on the keycaps, this image will become your best friend for the next days, weeks, ... I don't know :)
+
+![asd](https://user-images.githubusercontent.com/6285554/47273241-38ee8300-d5cc-11e8-9099-10c1b35e24fc.png)
+
+This keyboard takes some getting used to, this is my first typing test on monkeytype:
+
+![First typing test on monkeytype](Images/monkeytype.png)
+
+While this is a random test I did directly after with a normal keyboard:
+
+![monkeytype with normal keyboard](Images/also_monkeytype.png)
