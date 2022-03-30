@@ -55,7 +55,7 @@ Some things you should focus on are:
 - Good touchpad: you don't want to use an external mouse all day when often changing between lecture halls, and you might not even have enough space on the table to use it
 - Good battery run time, as you don't have power outlets everywhere (you will find one, but always having to sit next to one is probably not what you are looking for)
 - weight: don't buy a 15kg brick, remember that you have to carry it all day
-- Memory: I would recommend getting at least 16 GB. 8 GB will probably also work, but if you plan to keep this machine for several years, I think getting 16 GB would be good
+- Memory: I would recommend getting at least 16 GB. 8 GB will probably also work, but if you plan to keep this machine for several years, I think getting 16 GB would be good.
 
 ## Things you can pretty much ignore
 

@@ -14,7 +14,7 @@ To build my Lily58 I mainly used this build guide: [https://github.com/kata0510/
 
 The most important part to look out for is which parts are mounted on which side, and to not confuse them.
 Both PCBs are identical and can be used in both directions, however by building it you commit to use it for one of the sides.
-The diodes and the Hotswap sockets (only if you have the Hotswap version obviously) are mounted on the back/bottom side, everything else gets mounted on the front side.
+The diodes and the Hotswap sockets (if you got the Hotswap version) are mounted on the back/bottom side, everything else gets mounted on the front side.
 
 ## Install QMK
 
@@ -59,7 +59,7 @@ qmk setup cvonderstein/qmk_firmware
 Here, you might want to use your own fork of the qmk firmware.
 For that, replace "cvonderstein" with your GitHub Username.
 
-If you do not know what a fork is or just don't want to do these extra steps, you can just run `qmk setup`.
+If you do not know what a fork is (git term obviously) or just don't want to do these extra steps, you can just run `qmk setup`.
 
 This command will also ask to install dependencies which are required to compile and flash QMK to your Arduino.
 
