@@ -16,3 +16,5 @@ After that, I ran `flutter doctor`, which told me that I was missing some parts 
 I fixed this by starting Android Studio, clicking onto the three vertical points in the upper right corner (in the main menu, where you select which project you want to open) and choosing SDK Manager there.
 Under SDK Tools I checked the Google USB Driver, Android SDK Platform-Tools and the Android SDK Build-Tools (I don't think all of them are neccessary for now).
 Then running `flutter doctor` again told me that I need to agree to some Android License and thats it for now I guess.
+
+Theres more to come if I find time to deal with this again, but for now (besides some brief playing around), I have other things to do.
