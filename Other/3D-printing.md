@@ -28,6 +28,12 @@ At RWTH, the Software Shop offers student licenses for 5€, which are nice for 
 
 ### Slicing
 
-I do the slicing with Cura.
-I have no idea if other programs are better, this is just what my friend recommended me, so I use it.
-It works pretty good for me, so there is currently no need to change it (which would probably require a lot of work to get the profiles again and other things).
+I use Cura for slicing.
+I have no idea if other programs are better, this is just what a friend recommended to me, so I use it.
+As I had basically no problems yet, there is currently no need to change it (which would probably require a lot of work to get the correct settings again and other things).
+
+## Some useful things I printed
+
+This list is mostly for myself to remember and find things later again :D
+
+- [Cherry MX Switch Opener](https://www.thingiverse.com/thing:4532633) (cut off like 0.5mm from the forks, otherwise this will not work properly)
