@@ -54,7 +54,10 @@ bundle exec jekyll serve
 
 to create a new site and run it locally.
 
-## Requirements
+To later build your site statically, you can just run `jekyll build` (or `jekyll b`).
+The built result is stored in `_site`.
+
+## Requirements for a theme
 
 So, my requirements are:
 
@@ -98,3 +101,7 @@ The focus is more on documentation, but I think this fits the purpose of this pa
 
 In the end, the purpose this site has is mostly documenting stuff, for myself but I'm also happy to help other people with this, which is why I'm publishing it.
 This probably the reason why the [Just the docs](#just-the-docshttpsjekyllthemesiothemejust-the-docs) Theme fits my purpose the best.
+
+As a short side-note, GitHub Pages requires this theme to be set as remote-theme in the `_config.yml`, while the local jekyll environment requires (also or only?) the `theme:` variable (e.g. for local preview).
+Unfortunately, for some reason GitHub Pages can't find this theme while building the site, and crashes with an error.
+For now, I have this variable commented out on GitHub, and in not commented out locally.
