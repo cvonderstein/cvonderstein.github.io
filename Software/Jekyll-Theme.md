@@ -104,4 +104,4 @@ This probably the reason why the [Just the docs](#just-the-docshttpsjekyllthemes
 
 As a short side-note, GitHub Pages requires this theme to be set as remote-theme in the `_config.yml`, while the local jekyll environment requires (also or only?) the `theme:` variable (e.g. for local preview).
 Unfortunately, for some reason GitHub Pages can't find this theme while building the site, and crashes with an error.
-For now, I have this variable commented out on GitHub, and in not commented out locally.
+For now, I have this variable commented out on GitHub, and not commented out locally.
