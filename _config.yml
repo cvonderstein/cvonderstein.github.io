@@ -34,7 +34,7 @@ aux_links_new_tab: true
 kramdown:
   syntax_highlighter_opts:
     block:
-      line_numbers: true
+      line_numbers: false
 
 # Include .well-known files for Matrix delegation
 include: [".well-known"]

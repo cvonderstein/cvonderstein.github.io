@@ -41,6 +41,7 @@ echo -n 'verySafePassword' | openssl dgst -binary -sha1 | openssl base64
 ```
 
 In this case, I receive the following hash: `yX+IcoRkb8Kw6hlAeisyK0USDSk=`
+Write that down for later usage.
 
 Change into the directory of the mounted docker volume:
 
