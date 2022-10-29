@@ -14,7 +14,14 @@ permalink: /
 
 ## About this page
 
-\- TODO -
+This page is just under construction, so you can expect some TODOs in here :)
 
-This page is just under construction, so you can expect many TODOs in here :)
-(and don't expect a lot of actual content!)
+### Structure
+
+The structure of this page looks as follows.
+Also, there are some things I want to point out, as they are not only about myself but might also contain information, which is relevant for others.
+
+- Hardware: Many Hardware things, concerning real computers (like actual ones, not IoT Stuff)
+- Software:
+- Other
+  - 3D Printing: What I use for 3D Printing, how I do it and some tips. Although this is mostly information for myself to remember it.
