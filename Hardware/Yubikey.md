@@ -17,9 +17,5 @@ The steps to set this up are nearly identical, the differences will be pointed o
 > {: .opaque }
 > <div markdown="block">
 > {: .warning }
-> A paragraph
->
-> Some more
->
-> And even more
+> Okay, I'm just not gonna go with a multi-line Callout, as this seems to cause some trouble. I'm just wondering, what it does if I write stupidly long lines.
 > </div>
