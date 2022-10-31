@@ -13,5 +13,11 @@ parent: Hardware
 You can use Yubikeys for passwordless logins or as a second factor.
 The steps to set this up are nearly identical, the differences will be pointed out.
 
-{: .highlight }
-A paragraph
+{: .important }
+> {: .opaque }
+> <div markdown="block">
+> {: .warning }
+> A paragraph
+> Some more
+> And even more
+> </div>
