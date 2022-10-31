@@ -11,6 +11,23 @@ url: "https://vonderste.in" # the base hostname & protocol for your site, e.g. h
 twitter_username: cvonderstein
 github_username:  cvonderstein
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 # Search settings
 search_enabled: true
 search.heading_level: 6
