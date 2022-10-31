@@ -18,8 +18,8 @@ The steps to set this up are nearly identical, the differences will be pointed o
 > <div markdown="block">
 > {: .warning }
 > A paragraph
-
+>
 > Some more
-
+>
 > And even more
 > </div>
