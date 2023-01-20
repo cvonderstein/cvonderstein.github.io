@@ -17,7 +17,7 @@ The steps to set this up are nearly identical, the differences will be pointed o
 > {: .opaque }
 > <div markdown="block">
 > {: .warning }
-> If you do something wrong here, you might lock yourself out of your user account, so be careful, make sure you understand the instructions, follow them and if possible test it on a machine, that you can afford to lose (or at least reinstall/reset to some backup, e.g. a VM) beforehand.
+> If you do something wrong here, you might lock yourself out of your user account, so be careful, make sure you understand the instructions, follow them carefully and if possible test it on a machine, that you can afford to lose (or at least reinstall/reset to some backup, e.g. a VM) beforehand.
 Also, things might change between versions, so also check against the linked sources, which I used to set it up.
 > </div>
 
