@@ -1,14 +1,6 @@
 {
-    "im.vector.riot.e2ee": {
-        "default": true
-    },
     "im.vector.riot.jitsi": {
         "preferredDomain": "jitsi.vonderste.in"
-    },
-    "io.element.e2ee": {
-        "default": true,
-        "secure_backup_required": false,
-        "secure_backup_setup_methods": []
     },
     "io.element.jitsi": {
         "preferredDomain": "jitsi.vonderste.in"
