@@ -11,6 +11,6 @@
         ]
     },
     "org.matrix.msc3575.proxy": {
-        "url": "https://matrix.vonderste.in/sliding-sync"
+        "url": "https://slidingsync.matrix.vonderste.in/sliding-sync"
     }
 }
