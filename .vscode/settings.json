@@ -1,0 +1,6 @@
+{
+    "[markdown]": {
+        "editor.defaultFormatter": "TomasHubelbauer.vscode-markdown-table-format"
+    },
+    "files.trimTrailingWhitespace": true
+}

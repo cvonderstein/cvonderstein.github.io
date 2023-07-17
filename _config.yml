@@ -1,7 +1,7 @@
 title: "Christian Vonderstein"
 remote_theme: just-the-docs/just-the-docs
 #theme: "just-the-docs"
-color_scheme: nil
+color_scheme: my
 description: >- # this means to ignore newlines until "baseurl:"
   Christian Vonderstein's Personal Website.
   Contains information about my projects and other stuff.
@@ -36,7 +36,7 @@ search.rel_url: true
 search.button: true
 
 # Footer config
-footer_content: "Copyright &copy; 2022 Christian Vonderstein."
+footer_content: "Copyright &copy; 2023 Christian Vonderstein."
 # Footer last edited timestamp
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"

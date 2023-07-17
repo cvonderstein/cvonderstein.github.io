@@ -1,0 +1,7 @@
+Ryzen
+Mainboard
+spindown
+Aorus
+Unbuffered
+Proxmox
+ErP

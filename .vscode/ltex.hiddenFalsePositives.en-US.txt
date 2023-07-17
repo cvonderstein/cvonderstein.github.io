@@ -1,0 +1,1 @@
+{"rule":"PROFANITY","sentence":"^\\QYeah no shit, thanks for that information...\\E$"}

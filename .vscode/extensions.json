@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "valentjn.vscode-ltex",
+        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "tomashubelbauer.vscode-markdown-table-format"
+    ]
+}
